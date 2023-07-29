@@ -1,6 +1,7 @@
 Our groundbreaking "Resume Builder Application" redefines the art of crafting compelling resumes with its innovative features and user-friendly interface. With an extensive collection of inbuilt templates catering to diverse career stages, from entry-level to seasoned professionals, our application makes the resume creation process a breeze. Whether you're a recent graduate embarking on your professional journey or a seasoned expert looking to explore new opportunities, Optimize your resume for success with our smart auto-fill suggestions, tailored to each section of your resume, saving valuable time and ensuring comprehensive content. In a highly competitive job market, our keyword optimization feature equips you with the tools to tailor your resume to specific job descriptions, increasing your visibility to potential employers and ATS systems. Furthermore, our collaborative capabilities enable seamless teamwork, making the application invaluable for group projects or resume services.
 ![Screenshot 2023-07-28 015513](https://github.com/hiteshnitkkr/ResumeBuilder1/assets/97216404/ea0eb7d4-25de-469d-b0f8-380ab6b8dff0)
-![Screenshot 2023-07-29 173925](https://github.com/hiteshnitkkr/ResumeBuilder1/assets/97216404/2ba67463-e0ef-48a1-a340-a8bbc082870c)
+![Screenshot 2023-07-30 040015](https://github.com/hiteshnitkkr/ResumeBuilder1/assets/97216404/839714ca-dfa7-4700-b95d-19f62b470f3d)
+
 
 
 1. Intuitive and Efficient Resume Creation: Developed a user-friendly 'Resume Builder Application' featuring a diverse selection of inbuilt templates. Empowered users to create personalized resumes within minutes by filling in their details manually, streamlining the job application process.
@@ -22,7 +23,7 @@ Our groundbreaking "Resume Builder Application" redefines the art of crafting co
 9. Error Handling and Validation: Implemented thorough error handling and data validation mechanisms to prevent data loss and ensure accurate resume creation
 
     
-![Screenshot 2023-07-30 040015](https://github.com/hiteshnitkkr/ResumeBuilder1/assets/97216404/839714ca-dfa7-4700-b95d-19f62b470f3d)
+
 ![Screenshot 2023-07-30 040029](https://github.com/hiteshnitkkr/ResumeBuilder1/assets/97216404/8edf8048-5e2d-45e7-83a8-be733035f0a1)
 ![Screenshot 2023-07-30 040047](https://github.com/hiteshnitkkr/ResumeBuilder1/assets/97216404/2330982a-ffd4-4c40-82f4-302677f5b1de)
 
